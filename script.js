@@ -16,5 +16,6 @@ const passwordElement = document.getElementById('password');
 const firstName = prompt('Come ti chiami?', 'Antonio');
 // console.log(firstName);
 
-
-
+// poi chiedi il suo cognome
+const lastName = prompt("Qual'è il tuo cognome?", 'Italiano');
+// console.log(lastName);
