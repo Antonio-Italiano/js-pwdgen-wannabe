@@ -1,4 +1,4 @@
-console.log('JS OK');
+// console.log('JS OK');
 
 /*
 1 - Chiedi all’utente il suo nome
@@ -8,8 +8,13 @@ console.log('JS OK');
 */
 
 
-// Chiedi all’utente il suo nome
+// prendo l'elemento DOM
 const passwordElement = document.getElementById('password');
-console.log(passwordElement)
+// console.log(passwordElement);
+
+// Chiedi all’utente il suo nome
+const firstName = prompt('Come ti chiami?', 'Antonio');
+// console.log(firstName);
+
 
 
