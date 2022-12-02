@@ -31,3 +31,6 @@ const number = ('21')
 // componiamo la password collegando nome + cognome + 21
 const pwdgen = firstName + lastName + favouritecolor + number;
 // console.log(pwdgen);
+
+// inserisco il risultato nell'HTML
+passwordElement.innerText = `La tua password è: ${pwdgen}`;
