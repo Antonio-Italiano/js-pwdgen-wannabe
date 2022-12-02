@@ -23,3 +23,9 @@ const lastName = prompt("Qual'è il tuo cognome?", 'Italiano');
 // poi chiedi il suo colore preferito
 const favouritecolor = prompt("Qual'è il tuo colore preferito?", 'Blu')
 // console.log(favouritecolor);
+
+// ricavo il numero 21 da aggiungere a nome cognome
+const number = ('21')
+// console.log(number);
+
+
