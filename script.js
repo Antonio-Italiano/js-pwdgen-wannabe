@@ -1,7 +1,15 @@
 console.log('JS OK');
 
-// TRACCIA:
-// Chiedi all’utente il suo nome,
-// poi chiedi il suo cognome,
-// poi chiedi il suo colore preferito
-// Infine scrivi sulla pagina nomecognomecolorepreferito21
+/*
+1 - Chiedi all’utente il suo nome
+2 - poi chiedi il suo cognome
+3 - poi chiedi il suo colore preferito
+4 - Infine scrivi sulla pagina nomecognomecolorepreferito21
+*/
+
+
+// Chiedi all’utente il suo nome
+const passwordElement = document.getElementById('password');
+console.log(passwordElement)
+
+
