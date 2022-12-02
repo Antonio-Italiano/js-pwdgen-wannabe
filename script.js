@@ -19,3 +19,7 @@ const firstName = prompt('Come ti chiami?', 'Antonio');
 // poi chiedi il suo cognome
 const lastName = prompt("Qual'è il tuo cognome?", 'Italiano');
 // console.log(lastName);
+
+// poi chiedi il suo colore preferito
+const favouritecolor = prompt("Qual'è il tuo colore preferito?", 'Blu')
+// console.log(favouritecolor);
