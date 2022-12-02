@@ -28,4 +28,6 @@ const favouritecolor = prompt("Qual'è il tuo colore preferito?", 'Blu')
 const number = ('21')
 // console.log(number);
 
-
+// componiamo la password collegando nome + cognome + 21
+const pwdgen = firstName + lastName + favouritecolor + number;
+// console.log(pwdgen);
